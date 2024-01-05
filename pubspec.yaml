@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  geolocator: ^9.0.1
+  geolocator: ">=9.0.1"
 
 dev_dependencies:
   flutter_test:
@@ -23,4 +23,3 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-
